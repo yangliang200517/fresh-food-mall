@@ -21,3 +21,9 @@ Database version: 5.7
 2. Use pnpm install or npm install to install project dependencies on the front and back ends.
 3. The backend uses the "node app" command to start the project.
 4. The front end uses the "pnpm dev" or "npm run dev" command to start the project.
+
+
+
+Backend management system super administrator account: guanli
+
+Backend management system super administrator password: guanli123
