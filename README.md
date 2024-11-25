@@ -27,3 +27,11 @@ Database version: 5.7
 Backend management system super administrator account: guanli
 
 Backend management system super administrator password: guanli123
+
+
+
+
+Effect display
+Mobile terminal
+
+![image text](https://github.com/yangliang200517/images/blob/main/q1.jpg)
