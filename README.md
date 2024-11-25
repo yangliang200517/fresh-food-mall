@@ -35,3 +35,19 @@ Effect display
 Mobile terminal
 
 ![image text](https://github.com/yangliang200517/images/blob/main/q1.jpg)
+
+![image text](https://github.com/yangliang200517/images/blob/main/q2.jpg)
+
+![image text](https://github.com/yangliang200517/images/blob/main/q3.jpg)
+
+![image text](https://github.com/yangliang200517/images/blob/main/q4.jpg)
+
+![image text](https://github.com/yangliang200517/images/blob/main/q5.jpg)
+
+![image text](https://github.com/yangliang200517/images/blob/main/q6.jpg)
+
+![image text](https://github.com/yangliang200517/images/blob/main/q7.jpg)
+
+![image text](https://github.com/yangliang200517/images/blob/main/q8.jpg)
+
+![image text](https://github.com/yangliang200517/images/blob/main/q9.jpg)
