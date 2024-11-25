@@ -51,3 +51,22 @@ Mobile terminal
 ![image text](https://github.com/yangliang200517/images/blob/main/q8.jpg)
 
 ![image text](https://github.com/yangliang200517/images/blob/main/q9.jpg)
+
+
+Backend management system
+
+![image text](https://github.com/yangliang200517/images/blob/main/h1.jpg)
+
+![image text](https://github.com/yangliang200517/images/blob/main/h2.jpg)
+
+![image text](https://github.com/yangliang200517/images/blob/main/h3.jpg)
+
+![image text](https://github.com/yangliang200517/images/blob/main/h4.jpg)
+
+![image text](https://github.com/yangliang200517/images/blob/main/h5.jpg)
+
+![image text](https://github.com/yangliang200517/images/blob/main/h6.jpg)
+
+![image text](https://github.com/yangliang200517/images/blob/main/h7.jpg)
+
+![image text](https://github.com/yangliang200517/images/blob/main/h8.jpg)
