@@ -4,7 +4,7 @@ const fs = require('fs')
 const path = require('path')
 
 const setProductImg = (imgData) => {
-  const serverAddress = 'http://127.0.0.1:3008/api'
+  const serverAddress = 'http://127.0.0.1:3009/api'
   const resultWithImageUrl = imgData.map(item => {
     return {
       ...item,
